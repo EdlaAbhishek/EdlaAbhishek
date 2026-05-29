@@ -1,4 +1,21 @@
 ## Hi there 👋
+## About Me
+
+I am an engineering student currently in my second year, focused on building a strong foundation in software development and problem-solving. I have an interest in full-stack development, artificial intelligence, and system design, and I actively work on improving my technical skills through projects and self-learning.
+
+I enjoy developing practical applications that solve real-world problems and exploring how modern technologies can be used to build efficient and scalable systems.
+
+## Interests
+- Full-Stack Web Development  
+- Artificial Intelligence & Automation  
+- Software Engineering Fundamentals  
+- System Design Basics  
+
+## Currently Learning
+- Modern web development frameworks  
+- Backend development and APIs  
+- Data structures and algorithms  
+- AI-based application development  
 
 <!--
 **EdlaAbhishek/EdlaAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
