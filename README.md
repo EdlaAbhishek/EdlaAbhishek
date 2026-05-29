@@ -1,7 +1,5 @@
 ## Hi there 👋
-## About Me
-
-I am an engineering student currently in my second year, focused on building a strong foundation in software development and problem-solving. I have an interest in full-stack development, artificial intelligence, and system design, and I actively work on improving my technical skills through projects and self-learning.
+I am an engineering student, focused on building a strong foundation in software development and problem-solving. I have an interest in full-stack development, artificial intelligence, and system design, and I actively work on improving my technical skills through projects and self-learning.
 
 I enjoy developing practical applications that solve real-world problems and exploring how modern technologies can be used to build efficient and scalable systems.
 
